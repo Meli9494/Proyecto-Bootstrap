@@ -1,0 +1,97 @@
+* {
+    box-sizing: border-box;
+}
+
+.header {
+    color: dodgerblue;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 2%;
+    margin-left: 1%;
+}
+
+p {
+    color: dodgerblue;
+    font-size: 18px;
+    text-align: justify;
+}
+
+.box {
+    float: left;
+    width: 48%;
+    padding: 10px;
+    border-style: solid;
+    border-color: khaki;
+    margin: 1%;
+}
+
+.box2 {
+    float: left;
+    width: 24%;
+    padding: 13px;
+    border-style: solid;
+    border-color: khaki;
+    margin: 6px;
+}
+
+.box3 {
+    width: 45%;
+    color: dodgerblue;
+    text-align: justify;
+    font-size: 20px;
+    padding-left: 0%;
+    margin-left: 51%;
+    margin-right: ;
+    margin-top: 12.33%;
+}
+
+.box4 {
+    float: left;
+    width: 48%;
+    padding: 10px;
+    border-style: solid;
+    border-color: khaki;
+    margin: 1%;
+    margin-bottom: 1.33%;
+    margin-right: 50%;
+}
+
+.box5 {
+    width: 24%;
+    padding: 10px;
+    border-style: solid;
+    border-color: khaki;
+    margin: 1%;
+    margin-top: 12%;
+    margin-right: 50%;
+}
+
+.box6 {
+    float: left;
+    width: 22%;
+    padding: 10px;
+    border-style: solid;
+    border-color: khaki;
+    margin: 1%;
+    margin-top: 0%;
+    margin-left: 26.44%;
+}
+
+.clearfix {
+    content: "";
+    clear: both;
+    display: table;
+    border-style: solid;
+    border-color: khaki;
+    padding: 2%;
+    color: dodgerblue;
+    font-size: 18px;
+    width: 100%;
+}
+
+input[type=text] {
+    width: 85%;
+    padding: 12px 20px;
+    margin: 0px;
+    border: none;
+}

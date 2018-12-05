@@ -1,0 +1,30 @@
+nav {
+    overflow: hidden;
+    background-color: black;
+    font-family: 'Quicksand', sans-serif;
+}
+
+nav a {
+    float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav .dropdown {
+    float: left;
+    overflow: hidden;
+}
+
+nav .dropdown .dropbtn {
+    font-size: 16px;
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+}

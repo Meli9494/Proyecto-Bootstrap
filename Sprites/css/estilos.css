@@ -1,0 +1,21 @@
+.sprite {
+    height: 44px;
+    width: 45px;
+    background: url("../img/sprites.gif");
+}
+
+.sprite:hover {
+    background-position: 0 44px;
+}
+
+.next {
+    height: 93px;
+    width: 43px;
+    background: url("../img/sprites.gif");
+    background-position: 43px;
+    padding: 20px;
+}
+
+.next:hover {
+
+}

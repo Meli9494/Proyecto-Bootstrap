@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: red;
+    height: 10vh;
+    width: 100%;
+}
+
+#logo {
+    height: 55px;
+    margin-top: 15px;
+    margin-left: 3%;
+}
+
+nav {
+    float: right;
+    height: 10vh;
+    width: 40%;
+    background: yellow;
+}
+
+ul {
+    list-style-type: none;
+    margin-top: 35px;
+    float: right;
+}
+
+li {
+    display: inline-block;
+    margin-right: 30px;
+}
+
+main {
+    height: 90vh;
+    background: purple;
+}
+
+#hero {
+    width: 50%;
+
+}

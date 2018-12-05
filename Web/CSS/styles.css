@@ -1,0 +1,109 @@
+header {
+    height: 15vh;
+    background: black;
+}
+
+/* logo */
+header img {
+    height: 5vh;
+    margin-top: 5vh;
+    margin-left: 2%;
+    float: left;
+}
+
+/* Nav*/
+header nav {
+    height: 15vh;
+    width: 50%;
+    background: black;
+    float: right;
+}
+
+/* Unordered List*/
+header nav ul {
+    list-style-type: none;
+    margin-top: 6vh;
+    padding: 0;
+    background: black;
+}
+
+/* Dropdown */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: green;
+}
+
+.dwopdown-content a {
+    display: block;
+}
+
+.dropdown:hover {
+    display: block;
+}
+
+/*List Itmes*/
+header nav ul li {
+    display: inline;
+    font-size: 1.8em;
+    margin-left: 15%;
+}
+
+/*List Items Links*/
+header nav ul li a {
+    color: white;
+}
+
+header nav ul li a:hover {
+    color: blue;
+    text-decoration: underline;
+}
+
+main {
+    height: 85vh;
+    background-image: url('../img/paisaje.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+main .contenedor {
+    text-align: center;
+    padding: 250px 0;
+    color: #fff;
+}
+
+main h1 {
+    font-size: 80px;
+}
+
+main p {
+    font-size: 45px;
+}
+
+main a {
+    font-family: sans-serif;
+    text-transform: uppercase;
+    text-decoration: none;
+    background-color: red;
+    margin-top: 20px;
+    padding: 30px;
+    color: black;
+}
+
+/*Section*/
+section {
+    height: 85vh;
+    background: blue;
+}
+
+.card {
+   max-width: 350px;
+   border: 1px solid black;
+   display: inline-block;
+   margin: ;
+}
+
+footer {
+    height: 15vh;
+    background: gray:
+}
